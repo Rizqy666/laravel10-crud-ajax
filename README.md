@@ -6,6 +6,42 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+# Nama Proyek
+
+Tulis deskripsi singkat proyek di sini.
+
+## Gambaran Umum
+
+Penjelasan lebih rinci tentang proyek Anda.
+
+## Fitur
+
+- Fitur 1
+- Fitur 2
+- Fitur 3
+
+## Instalasi
+
+Petunjuk instalasi proyek Anda.
+
+## Penggunaan
+
+Contoh penggunaan proyek Anda.
+
+## Kontribusi
+
+Jika Anda ingin berkontribusi pada proyek, silakan ikuti langkah-langkah berikut:
+
+1. Fork proyek
+2. Buat branch baru (`git checkout -b fitur/fitur-baru`)
+3. Lakukan perubahan Anda
+4. Commit perubahan Anda (`git commit -am 'Menambahkan fitur baru'`)
+5. Push ke branch Anda (`git push origin fitur/fitur-baru`)
+6. Buat Permintaan Tarik baru
+
+## Lisensi
+
+Tulis lisensi proyek Anda di sini.
 
 ## About Laravel
 
