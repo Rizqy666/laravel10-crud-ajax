@@ -6,23 +6,30 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-# Nama Proyek
+# CRUD Laravel 10 + Aajax
 
-Tulis deskripsi singkat proyek di sini.
-
-## Gambaran Umum
-
-Penjelasan lebih rinci tentang proyek Anda.
+Laravel 10 With Ajax Server Side.
 
 ## Fitur
 
-- Fitur 1
-- Fitur 2
-- Fitur 3
+- Edit
+- Delete
 
 ## Instalasi
 
-Petunjuk instalasi proyek Anda.
+```
+Git clone https://github.com/Rizqy666/laravel10-crud-ajax.git
+```
+
+```
+cp .env.example .env
+```
+
+```
+Databasenya
+Setting .nev 
+```
+
 
 ## Penggunaan
 
