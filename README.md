@@ -53,10 +53,6 @@ Jika Anda ingin berkontribusi pada proyek, silakan ikuti langkah-langkah berikut
 5. Push ke branch Anda (`git push origin fitur/fitur-baru`)
 6. Buat Permintaan Tarik baru
 
-## Lisensi
-
-Tulis lisensi proyek Anda di sini.
-
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
