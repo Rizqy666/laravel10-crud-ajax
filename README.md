@@ -16,20 +16,31 @@ Laravel 10 With Ajax Server Side.
 - Delete
 
 ## Instalasi
-
+Download Project ini atau melakukan clone 
 ```
 Git clone https://github.com/Rizqy666/laravel10-crud-ajax.git
 ```
-
+Melakukan Copy .env
 ```
 cp .env.example .env
 ```
-
+Setting .env
 ```
-Databasenya
-Setting .nev 
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE= (sesuaikan)
+DB_USERNAME= (sesuaikan)
+DB_PASSWORD= (sesuaikan)
 ```
-
+Melakukan Migrasi Database
+```
+php artisan migrate
+```
+Jalankan Aplikasinya
+```
+php artisan ser
+```
 
 ## Penggunaan
 
