@@ -39,6 +39,9 @@ php artisan migrate
 ```
 Jalankan Aplikasinya
 ```
+php artisan key:generate
+```
+```
 php artisan ser
 ```
 
